@@ -1,48 +1,28 @@
-# Moodle
+# Magic Academy
 
-<p align="center"><a href="https://moodle.org" target="_blank" title="Moodle Website">
-  <img src="https://raw.githubusercontent.com/moodle/moodle/main/.github/moodlelogo.svg" alt="The Moodle Logo">
-</a></p>
+Magic Academy je automatizovaný CMS (Content Management System) pro aktualizaci
+obsahu v reálném čase, který slouží zejména jako centrální zdroj informací, inspirace
+a nástroj pro vzdělávání.
 
-[Moodle][1] is the World's Open Source Learning Platform, widely used around the world by countless universities, schools, companies, and all manner of organisations and individuals.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/magicware/magic-academy/main/.github/ma-logo.png" alt="Magic Academy Logo">
+</p>
 
-Moodle is designed to allow educators, administrators and learners to create personalised learning environments with a single robust, secure and integrated system.
+Magic Academy je založený na Open Source CMS Moodle, což je celosvětově rozšířená vzdělávací platforma s otevřeným zdrojovým kódem, kterou po celém světě používá nespočet univerzit, škol, firem a nejrůznějších organizací i jednotlivců.
+Moodle je navržen tak, aby umožňoval pedagogům, správcům a studentům vytvářet personalizované vzdělávací prostředí pomocí jediného robustního, bezpečného a integrovaného systému
 
-## Documentation
+## Dokumentace
 
-- Read our [User documentation][3]
-- Discover our [developer documentation][5]
-- Take a look at our [demo site][4]
+- [Uživatelská dokumentace][4]
+- [Vývojářská dokumentace][5]
 
-## Community
+## Licence
 
-[moodle.org][1] is the central hub for the Moodle Community, with spaces for educators, administrators and developers to meet and work together.
+Magic Academy je poskytována zdarma jako software s otevřeným zdrojovým kódem pod verzí 3 obecné veřejné licence GNU. Další informace o naší licenci naleznete [zde][6].
 
-You may also be interested in:
-
-- attending a [Moodle Moot][6]
-- our regular series of [developer meetings][7]
-- the [Moodle User Association][8]
-
-## Installation and hosting
-
-Moodle is Free, and Open Source software. You can easily [download Moodle][9] and run it on your own web server, however you may prefer to work with one of our experienced [Moodle Partners][10].
-
-Moodle also offers hosting through both [MoodleCloud][11], and our [partner network][10].
-
-## License
-
-Moodle is provided freely as open source software, under version 3 of the GNU General Public License. For more information on our license see
-
-[1]: https://moodle.org
-[2]: https://moodle.com
-[3]: https://docs.moodle.org/
-[4]: https://sandbox.moodledemo.net/
+[1]: https://magictravelacademy.cz/
+[2]: https://moodle.org
+[3]: https://moodle.com
+[4]: https://docs.moodle.org/
 [5]: https://moodledev.io
-[6]: https://moodle.com/events/mootglobal/
-[7]: https://moodledev.io/general/community/meetings
-[8]: https://moodleassociation.org/
-[9]: https://download.moodle.org
-[10]: https://moodle.com/partners
-[11]: https://moodle.com/cloud
-[12]: https://moodledev.io/general/license
+[6]: https://moodledev.io/general/license
